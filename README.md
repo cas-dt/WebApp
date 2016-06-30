@@ -16,22 +16,15 @@ Ich bin auf (härtere) *technische* und (weichere) *inhaltlich-funktionelle Unte
 
 ### Technische Merkmale einer Web App
 
-+ **Single-Page-Design**
-
-	Im [HTML-Seminar] [3] wird der Trend, komplette Websites in Einzeldateien zusammenzufassen, um sie dann ausschnittweise darzustellen, mit dem Vorteil kürzerer Latenzzeiten beim Laden der Web App erklärt. Mobile User haben dadurch, wie beim Download einer nativen App, nur eine einmalige Wartezeit.
-	
++ **Single-Page-Design** – im [HTML-Seminar] [3] wird der Trend, komplette Websites in Einzeldateien zusammenzufassen, um sie dann ausschnittweise darzustellen, mit dem Vorteil kürzerer Latenzzeiten beim Laden der Web App erklärt. Mobile User haben dadurch, wie beim Download einer nativen App, nur eine einmalige Wartezeit.
 + **Einbindung der Geräte-Hardware** (Geolocation, Kamera,...)
-
 + **Offline funktionsfähig** mit automatischer Synchronisierung
-
 + **Komplexes User Interface** mit visuellen Anklängen an native Apps und das UI des Geräts und Unterdrückung der browsereigenen Navigationstools
-
++ 
 ### Inhatlich-funktionelle Unterschiede
 
 + Web-Site wird tendenziell passiv konsumiert und zeigt im Wesentlichen allen Besuchern die gleichen Inhalte an (**"read-only"**) 
-
 + Web-App verarbeitet individuellen **User-Input**
-
 + Web-App fokussiert auf die schnelle **Erledigung abgegrenzter, spezifischer Aufgaben**, die früher eine installierbare, somit plattformabhängige Software erfordert hätten 
 	
 [1]: http://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application	"Stackoverflow"
