@@ -6,7 +6,7 @@ Ergebnisse der Hausaufgabe auf den 1. Juli 2016.
 
 Zuallererst muss ich gestehen, dass ich die Aufgabe mit gewissen Hintergedanken gestellt habe. Über den Begriff «Web App» herrscht in der Fachwelt nämlich keinen Konsens. So wird er besipielsweise von Verfechtern des *Progressive Enhancement* in Frage gestellt. Je nachdem wen man fragt, erhält man stark abweichende Definitionen des Begriffs und so würde ich ihn nicht zur Fachterminologie rechnen, sondern eher als Vehikel für Ideologien bezeichnen, vielleicht sogar als hohle Floskel mit dem Zweck, die schale Luft in Sitzungszimmern mit dem Duft der Innovation aufzufrischen.
 
-Das Nachdenken über die Frage, wie sich Web Sites und Apps unterscheiden, ob sie abgesehen von ihrer technischen Grundlage überhaupt unterscheiden und ob man Zwischenstufen unterscheiden soll, halte ich aber für durchaus sinnvoll.
+Das Nachdenken über die Frage, wie sich Web Sites und Apps unterscheiden, ob sie sich abgesehen von ihrer technischen Grundlage überhaupt unterscheiden und ob man Zwischenstufen definieren soll, halte ich aber für durchaus sinnvoll.
 
 ## Peter Motter
 
