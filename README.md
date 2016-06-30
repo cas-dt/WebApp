@@ -20,7 +20,7 @@ Ich bin auf (härtere) *technische* und (weichere) *inhaltlich-funktionelle Unte
 + **Einbindung der Geräte-Hardware** (Geolocation, Kamera,...)
 + **Offline funktionsfähig** mit automatischer Synchronisierung
 + **Komplexes User Interface** mit visuellen Anklängen an native Apps und das UI des Geräts und Unterdrückung der browsereigenen Navigationstools
-+ 
+
 ### Inhatlich-funktionelle Unterschiede
 
 + Web-Site wird tendenziell passiv konsumiert und zeigt im Wesentlichen allen Besuchern die gleichen Inhalte an (**"read-only"**) 
