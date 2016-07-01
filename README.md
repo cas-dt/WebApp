@@ -333,7 +333,7 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 
 ## Vorteile von mobilen WebSites
 
-*Anm. als *mobile Web Site* bezeichent man in der Regel eine Variante einer Web Site, die für die Anzeige auf kleinen Bildschirmen optimiert ist und die unter einem anderen Pfad auf dem Server abgelegt ist, als die eigentliche Web Site. Wird die Web Site auf einem Mobiltelefon aufgerufen, wird man auf die *mobile Web Site* umgeleitet. Diese Art Web Site ist mit dem Aufkommen von *Responsive Web Design* weitgehend obsolet geworden.*
+*Anm. als* mobile Web Site *bezeichent man in der Regel eine Variante einer Web Site, die für die Anzeige auf kleinen Bildschirmen optimiert ist und die unter einem anderen Pfad auf dem Server abgelegt ist, als die eigentliche Web Site. Wird die Web Site auf einem Mobiltelefon aufgerufen, wird man auf die* mobile Web Site *umgeleitet. Diese Art Web Site ist mit dem Aufkommen von* Responsive Web Design *weitgehend obsolet geworden.*
 
 - es existieren keine Guidelines, der Seitenaufbau ist flexibler
 - geräteunabhängig, muss nicht auf jedes Mobile-OS Gerät angepasst werden, damit reduzieren sich die Entwicklerkosten deutlich
