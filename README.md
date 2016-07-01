@@ -10,9 +10,9 @@ Das Nachdenken über die Frage, wie sich Web Sites und Apps unterscheiden, ob si
 
 Wichtiger als die Unterscheidung zwischen App, Web App und Web Site ist jene zwischen *native* und *web*. Ersteres bedeutet immer die Abhängigkeit von einem Betriebssystem und wahrscheinlich auch von einem zentralisierten Vertrieb (App Store) und dessen Geschäftsbedingungen. Argumente für oder gegen «Native» haben auch eine politische Dimension, die man nicht ausser Acht lassen sollte.
 
-Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, dass eine Web Site einen sogenannten *Service Worker* im Hintergrund laufenlassen kann, ein Script, dass bestimmte Funktionen ermöglicht, die bisher Native Apps vorbehalten waren. Dazu gehören u.a. das Funktionieren ohne Verbindung zum Internet, das Laden von Daten im Hintergrund (ohne dass die Web Site im Browser geöffnet ist), das erhalten von Push-Nachrichten und die Verwendung der *Geolocation*.
+Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, dass eine Web Site über einen sogenannten *Service Worker* im Hintergrund verfügen kann: Das ist ein Script, das bestimmte Funktionen ermöglicht, die bisher Native Apps vorbehalten waren. Dazu gehören u.a. das Funktionieren ohne Verbindung zum Internet, das Laden von Daten im Hintergrund (ohne dass die Web Site im Browser geöffnet ist), das Erhalten von Push-Nachrichten und die Verwendung der *Geolocation*.
 
-*Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwenidg erschien habe ich Anmerkungen gemacht.*
+*Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwendig erschien, habe ich Anmerkungen angefügt.*
 
 ## Mischa Kreis
 
@@ -370,7 +370,7 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 
 ## Nachteile von Web Apps
 
-*Abhängigkeit von Betriebssystem = Native App*
+*Anm. Abhängigkeit von Betriebssystem = Native App*
 
 - nur auf einem Betriebssystem lauffähig
 - langwierige Freigabe- und Prüfungsprozesse
