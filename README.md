@@ -1,4 +1,4 @@
-# Was sind Web Apps?
+# Unterschied Web Site – Web App
 
 Ergebnisse der Hausaufgabe auf den 1. Juli 2016.
 
@@ -16,7 +16,7 @@ Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, d
 
 ## Mischa Kreis
 
-### Unterschied zwischen Website und Web Applikation  
+### Unterschied zwischen Web Site und Web App
 
 Meine Kommentare sind _kursiv_. Gewisse Stellen aus Quellen sind **fett** hervorgehoben, da ich entweder darauf bezug nehme, oder sie mir als wichtig erscheinen.
 
@@ -28,7 +28,7 @@ Meine Kommentare sind _kursiv_. Gewisse Stellen aus Quellen sind **fett** hervor
 
 _Wabseiten können Webapplikationen enthalten. Das umgekehrte wäre dann bei nativen Apps möglich [(Hybrid apps embed a mobile web site inside a native app, […])](https://en.wikipedia.org/wiki/Web_application)._
 
-#### Stackoverflow
+#### Stack Overflow
 
 [Aus der Konversation:](http://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application)
 
@@ -38,7 +38,7 @@ _Wabseiten können Webapplikationen enthalten. Das umgekehrte wäre dann bei nat
 
 **They are not entirely exclusive.** A university website likely gives information such as location, tuition rates, programs available, etc; it will likely have web applications that allow teachers to manage grades and course materials, applications for students to register for and withdraw from courses, etc.
 
-#### Differencebtw	
+#### Difference btw	
 
 [Difference Between Web Application and Website:](http://www.differencebtw.com/difference-between-web-application-and-website/)
 
