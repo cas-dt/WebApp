@@ -331,7 +331,7 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 - die Nutzungsumstände und die Bedienungsparadigmen sind anders
 - Eine App ist ein Programm
 
-## Vorteile von mobilen WebSites
+### Vorteile von mobilen WebSites
 
 *Anm. als* mobile Web Site *bezeichent man in der Regel eine Variante einer Web Site, die für die Anzeige auf kleinen Bildschirmen optimiert ist und die unter einem anderen Pfad auf dem Server abgelegt ist, als die eigentliche Web Site. Wird die Web Site auf einem Mobiltelefon aufgerufen, wird man auf die* mobile Web Site *umgeleitet. Diese Art Web Site ist mit dem Aufkommen von* Responsive Web Design *weitgehend obsolet geworden.*
 
@@ -345,12 +345,12 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 - Nachrichten können redaktionell gewichtet und geteasert werden
 - lautes Vorlesen ist möglich
 
-## Nachteile von mobilen Websites
+### Nachteile von mobilen Websites
 
 - schlechtere Performance
 - kein Zugriff auf native Gerätefunktionalitäten möglich
 
-## Vorteile von Web Apps
+### Vorteile von Web Apps
 
 *Anm. Nicht sicher, ob hier der Begriff «Web App» mit «native» verwechselt wurde?*
 
@@ -368,10 +368,46 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 -nhalte gebunden werden, sie rentieren aber nur wenn sie einen Mehrwert
 -ür User und Betreiber schaffen
 
-## Nachteile von Web Apps
+### Nachteile von Web Apps
 
 *Anm. Abhängigkeit von Betriebssystem = Native App*
 
 - nur auf einem Betriebssystem lauffähig
 - langwierige Freigabe- und Prüfungsprozesse
 - nur über App-Marktplätze auffindbar
+
+## Olivier Rieser
+
+### Web Site
+
+- defined by its content
+- static content – no interaction. displaying content
+- what happens when a request hits the server: return = file already formated = static content
+- collection of documents accessible via the internet through a web browser
+- a web site can be a web app (web site composed of applic.). more often: a web site has multiple web applications
+- a website's role is to inform
+- primary aim is to provide informations
+- a web site is a collection of related web pages including multimedia content, typically identified with a common domain name and published on at least one web server
+- to be read-only
+- can be presented as a web app as long as users consume it in a similar way they do a native app
+- when designing websites, we need to make sure that the information we want the user to consume is easily accessible
+
+### Web App
+
+- defined by its interaction with the user
+- depends on interaction and requires programmatic user input and data processing. provides information as user interact
+- what happens when a request hits the server: return=response from an application
+- software accessible over an internet network or via the internet through a web browser
+- a web app's primarly role is to inform using dynamic content
+- primary aim is to make the user take a task. are meant to solve a problem of the user.
+- a web application or web app is a client–server software application which the client (or user interface) runs in a web browser.
+- domain name and published on at least one web server
+- to be read-written
+- when designing web applications, we need to make sure that the user is able to complete the task he wants to do
+
+### Links
+
+- http://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application
+- https://en.wikipedia.org/wiki/Web_application
+- http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/
+- https://webapphuddle.com/web-application-vs-website-design-a-fundamental-difference/
