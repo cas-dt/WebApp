@@ -8,6 +8,10 @@ Zuallererst muss ich gestehen, dass ich die Aufgabe mit gewissen Hintergedanken 
 
 Das Nachdenken über die Frage, wie sich Web Sites und Apps unterscheiden, ob sie sich abgesehen von ihrer technischen Grundlage überhaupt unterscheiden und ob man Zwischenstufen definieren soll, halte ich aber für durchaus sinnvoll.
 
+Wichtiger als die Unterscheidung zwischen App, Web App und Web Site ist jene zwischen *native* und *web*. Ersteres bedeutet immer die Abhängigkeit von einem Betriebssystem und wahrscheinlich auch von einem zentralisierten Vertrieb (App Store) und dessen Geschäftsbedingungen. Argumente für oder gegen «Native» haben auch eine politische Dimension, die man nicht ausser Acht lassen sollte.
+
+Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, dass eine Web Site einen sogenannten *Service Worker* im Hintergrund laufenlassen kann, ein Script, dass bestimmte Funktionen ermöglicht, die bisher Native Apps vorbehalten waren. Dazu gehören u.a. das Funktionieren ohne Verbindung zum Internet, das Laden von Daten im Hintergrund (ohne dass die Web Site im Browser geöffnet ist), das erhalten von Push-Nachrichten und die Verwendung der *Geolocation*.
+
 *Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwenidg erschien habe ich Anmerkungen gemacht.*
 
 ## Mischa Kreis
@@ -276,3 +280,98 @@ Ein weiterer Vorteil liegt darin, dass für die Web App nur eine Anwendung prog
 
 - [Web Sites vs. Web Apps: What the experts think](http://www.visionmobile.com/blog/2013/07/websites-vs-web-apps-what-the-experts-think/)
 - [Vor- und Nachteile von mobilen Websites und Apps](https://www.trakken.de/insights/vor-und-nachteile-von-mobilen-websites-und-apps/)
+
+## Tina Tanner
+
+### Web App
+
+Ziel: Responsive Ansicht der Webseite
+
+#### +
+
+- keine Vorgaben beim Interface Design, Corporate Design der Firma kann besser umgesetzt werden
+- läuft Platformunabhängig (Android, WebOS und Windows Phone 7) Multi-Channel-fähige-Anwendungen kann auf beliebigen Endgeräten betrieben werden mit dem vorhanden Webbrowser
+(– Möglichkeit der Redaktionellen Betreuung)
+- Änderungen müssen nur auf der Webseite vorgenommen werden, geringere Wartungskosten
+- Sicherheit: Lücken können sofort behoben werden
+
+#### -
+
+– Hardware-Komponenten wie zum Beispiel Kamera oder Mikrofon können nicht angesprochen werden
+– die Interaktivität leidet bei langsamer Internetverbindung, Datenübertragungsgeschwindigkeit spielt eine Rolle
+– Übertragungs-Gebühren (besonders Roaming-Gebühren im Ausland) Storage-Technik Cachetspeicher mit 5-10 MB nur für kleine Datenmengen hilfreich.
+– keine Offlinebenutzung möglich, man muss immer mit dem Webserver verbunden sein
+
+### Native App
+
+Ziel: Man kann etwas MACHEN mit der App. (*Anm. lässt sich auch mit «Web App», z.B. Google Docs, oder?*)
+
+#### +
+
++ Hardware-Komponenten wie zum Beispiel Kamera oder Mikrofon können angesprochen werden
++ Änderungen müssen zusätzlich zum Web separat angepasst werden, höhere Wartungskosten
+
+#### -
+– vorgegebenes Interface Design
+– muss auf jede Platform individuell angepasst werden. (mehr gestalterischer Aufwand, teurer)
+– Sicherheit: Sicherheitslückenanfällig
+
+Die Entscheidung für eine Web- oder eine Mobile-App ist gebunden an den Zweck.
+Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwand (Plattformabhängigkeit/Sicherheit & Update) und die daraus resultierenden Kosten spielen eine Rolle. Ebenfalls sind Überlegungen zur Verwendung von Hardwarekomponenten (Kamera & Mikrofon), Wichtigkeit der Internetverbindung beim Gebrauch der App und die Übertragungsgebürenkosten für den Endbenutzer sind in Betracht zu ziehen.
+
+### Links
+
+[(praegnanz.de/weblog/mobile-website-oder-web-app)](https://praegnanz.de/weblog/mobile-website-oder-web-app)
+[(de.wikipedia.org/wiki/Webanwendung)](https://de.wikipedia.org/wiki/Webanwendung) 
+
+## Thea Sautter
+
+### Unterschiede
+
+- die Nutzungsumstände und die Bedienungsparadigmen sind anders
+- Eine App ist ein Programm
+
+## Vorteile von mobilen WebSites
+
+*Anm. als *mobile Web Site* bezeichent man in der Regel eine Variante einer Web Site, die für die Anzeige auf kleinen Bildschirmen optimiert ist und die unter einem anderen Pfad auf dem Server abgelegt ist, als die eigentliche Web Site. Wird die Web Site auf einem Mobiltelefon aufgerufen, wird man auf die *mobile Web Site* umgeleitet. Diese Art Web Site ist mit dem Aufkommen von *Responsive Web Design* weitgehend obsolet geworden.*
+
+- es existieren keine Guidelines, der Seitenaufbau ist flexibler
+- geräteunabhängig, muss nicht auf jedes Mobile-OS Gerät angepasst werden, damit reduzieren sich die Entwicklerkosten deutlich
+- individuelleres Erscheinungsbild, eine freier gestaltete mobile Website ann das Corporate Design einer Firma besser berücksichtigen
+- über den Webbrowser eines mobilen Endgerätes abrufbar
+- leichter zu warten und erweiterbar
+- üblicherweise von Suchmaschinen auffindbar, wird indiziert
+- Updates können schneller veröffentlicht werden
+- Nachrichten können redaktionell gewichtet und geteasert werden
+- lautes Vorlesen ist möglich
+
+## Nachteile von mobilen Websites
+
+- schlechtere Performance
+- kein Zugriff auf native Gerätefunktionalitäten möglich
+
+## Vorteile von Web Apps
+
+*Anm. Nicht sicher, ob hier der Begriff «Web App» mit «native» verwechselt wurde?*
+
+- ist als erweiterter Funktionsumfang zum Gerät zu sehen
+- Funktionen sind im Vordergrund (wichtig)
+- schnelle Auffindbarkeit von Information möglich
+- einfache Menupunkte, Buttons und Listen (zeitbasiert oder alphabetisch geordnet)
+- müssen nicht betreut werden, datenbankgestützt (*Anm. betreut werden muss alles. Eine Datenbank ist keine zwingende Voraussetzung für eine Web Site / Web App. Siehe «CMS», «dynamische Web Sites»*)
+- kurze Texte, kurze Ladezeiten
+- Geolocation und direktes Anrufen möglich
+- Zugriff auf native Gerätefunktionalitäten wie Adressbuch, GPS
+- Vorteil wenn es um Interaktionen und Spiele geht
+- auch im Offline-Modus verfügbar
+- mit Apps kann Geld gemacht werden, sie können an kommerzielle
+-nhalte gebunden werden, sie rentieren aber nur wenn sie einen Mehrwert
+-ür User und Betreiber schaffen
+
+## Nachteile von Web Apps
+
+*Abhängigkeit von Betriebssystem = Native App*
+
+- nur auf einem Betriebssystem lauffähig
+- langwierige Freigabe- und Prüfungsprozesse
+- nur über App-Marktplätze auffindbar
