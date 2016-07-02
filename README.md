@@ -14,6 +14,12 @@ Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, d
 
 *Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwendig erschien, habe ich Anmerkungen angefügt.*
 
+### Weiterführende Lektüre
+
+* [Why Britain banned web apps](https://www.instapaper.com/read/733226787)
+* [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
+* [Jeremy Keith – Regressive Web Apps](https://adactio.com/journal/10708) 
+
 ## Mischa Kreis
 
 ### Unterschied zwischen Web Site und Web App
