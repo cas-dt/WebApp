@@ -12,13 +12,17 @@ Wichtiger als die Unterscheidung zwischen App, Web App und Web Site ist jene zwi
 
 Eine wichtige Entwicklung, die gegenwärtig stattfindet, ist die Möglichkeit, dass eine Web Site über einen sogenannten *Service Worker* im Hintergrund verfügen kann: Das ist ein Script, das bestimmte Funktionen ermöglicht, die bisher Native Apps vorbehalten waren. Dazu gehören u.a. das Funktionieren ohne Verbindung zum Internet, das Laden von Daten im Hintergrund (ohne dass die Web Site im Browser geöffnet ist), das Erhalten von Push-Nachrichten und die Verwendung der *Geolocation*.
 
-*Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwendig erschien, habe ich Anmerkungen angefügt.*
-
 ### Weiterführende Lektüre
 
 * [Why Britain banned web apps](https://www.instapaper.com/read/733226787)
 * [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
 * [Jeremy Keith – Regressive Web Apps](https://adactio.com/journal/10708) 
+
+---
+
+*Es folgen die Resultate der Recherche. Ich habe mir teilweise kleine Änderungen erlaubt, um Begriffe anzugleichen, etwa «Web Site» statt «Webseite». Wo es mir notwendig erschien, habe ich Anmerkungen angefügt.*
+
+---
 
 ## Mischa Kreis
 
