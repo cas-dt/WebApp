@@ -321,8 +321,8 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 
 ### Links
 
-[(praegnanz.de/weblog/mobile-website-oder-web-app)](https://praegnanz.de/weblog/mobile-website-oder-web-app)
-[(de.wikipedia.org/wiki/Webanwendung)](https://de.wikipedia.org/wiki/Webanwendung) 
+[praegnanz.de/weblog/mobile-website-oder-web-app](https://praegnanz.de/weblog/mobile-website-oder-web-app)
+[de.wikipedia.org/wiki/Webanwendung](https://de.wikipedia.org/wiki/Webanwendung) 
 
 ## Thea Sautter
 
@@ -407,7 +407,7 @@ Die Abwägung von Faktoren wie Designansprüche, Entwicklungs- und Wartungsaufwa
 
 ### Links
 
-- http://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application
-- https://en.wikipedia.org/wiki/Web_application
-- http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/
-- https://webapphuddle.com/web-application-vs-website-design-a-fundamental-difference/
+- [stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application](http://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application)
+- [en.wikipedia.org/wiki/Web_application](https://en.wikipedia.org/wiki/Web_application)
+- [www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/](http://www.visionmobile.com/blog/2013/07/web-sites-vs-web-apps-what-the-experts-think/)
+- [webapphuddle.com/web-application-vs-website-design-a-fundamental-difference/](https://webapphuddle.com/web-application-vs-website-design-a-fundamental-difference/)
